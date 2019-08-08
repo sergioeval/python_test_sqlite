@@ -1,0 +1,1 @@
+conda activate py37dev && jupyter lab
